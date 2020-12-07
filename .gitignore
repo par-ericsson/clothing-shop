@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.eslintcache
+/.idea/clothing-shop.iml
+/.idea/modules.xml
+/package-lock.json
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
